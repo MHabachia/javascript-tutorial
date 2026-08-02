@@ -112,6 +112,8 @@ javascript-tutorial/
 ├── CONTRIBUTING.md                    <- Wie du zum Kurs beitragen kannst
 ├── LICENSE                            <- MIT-Lizenz
 ├── .gitignore
+├── .github/
+│   └── ISSUE_TEMPLATE/                <- Vorlagen für Fehler-/Verbesserungsmeldungen
 ├── modul-1-fundamente/
 │   └── README.md
 ├── modul-2-mittelstufe/
