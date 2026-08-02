@@ -106,7 +106,7 @@ Zusätzlich gibt es ein [📖 Glossar](./GLOSSAR.md) mit allen Fachbegriffen des
 ## 📁 Repository-Struktur
 
 ```
-javascript-kurs/
+javascript-tutorial/
 ├── README.md                          <- Diese Datei
 ├── GLOSSAR.md                         <- Alle Fachbegriffe des Kurses
 ├── CONTRIBUTING.md                    <- Wie du zum Kurs beitragen kannst
