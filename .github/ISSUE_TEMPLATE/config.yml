@@ -1,0 +1,5 @@
+blank_issues_enabled: true
+contact_links:
+  - name: 🤝 Allgemeine Frage oder Diskussion
+    url: ../../discussions
+    about: Für offene Fragen oder Diskussionen, die kein Bug oder Feature-Vorschlag sind
