@@ -1,0 +1,17 @@
+{
+  "name": "mein-erstes-projekt",
+  "version": "1.0.0",
+  "description": "Beispielprojekt aus Modul 4 des JavaScript-Kurses: Express-API + Jest-Tests",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js",
+    "test": "node --experimental-vm-modules node_modules/.bin/jest"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
